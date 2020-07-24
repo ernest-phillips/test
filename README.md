@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Super Test account
 
 # Super testified account
