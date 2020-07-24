@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Super Test account
+=======
+# Super testified account
+>>>>>>> ernest-phillips-patch-1
 
 ## Purpose
 To test out features of the GitHub platform in a mock team environment.
